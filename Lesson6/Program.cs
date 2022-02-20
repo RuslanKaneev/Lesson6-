@@ -59,7 +59,6 @@ namespace Lesson6
                     {
                         TaskManagerKill(process[i]);
                     }
-
                 }
             }
             Console.ReadKey();
